@@ -1,0 +1,21 @@
+﻿Der Buildvorgang wurde am 18.09.2014 17:32:05 gestartet.
+     1>Projekt "D:\Dropbox\Bregor\Masterarbeit\3.5 - C++\HP_KrDef\HP_KrDef\HP_KrDef.vcxproj" auf Knoten "2", Build Ziel(e).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"D:\Dropbox\Bregor\Masterarbeit\3.5 - C++\Neuer Ordner (5)" /ZI /nologo /W3 /WX- /sdl /MP /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\HP_KrDef.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt up_rk4_abm.cpp
+         up_rk4_abm.cpp
+     1>d:\dropbox\bregor\masterarbeit\3.5 - c++\hp_krdef\hp_krdef\up_rk4_abm.cpp(27): warning C4101: 'F4': Unreferenzierte lokale Variable
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Dropbox\Bregor\Masterarbeit\3.5 - C++\HP_KrDef\Debug\HP_KrDef.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Dropbox\Bregor\Masterarbeit\3.5 - C++\HP_KrDef\Debug\HP_KrDef.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Dropbox\Bregor\Masterarbeit\3.5 - C++\HP_KrDef\Debug\HP_KrDef.lib" /MACHINE:X86 Debug\HP_KrDef.obj
+         Debug\up_ode.obj
+         Debug\up_kraftvektor.obj
+         Debug\up_matritzen.obj
+         Debug\up_konstanten.obj
+         Debug\up_rk4_abm.obj
+         Debug\up_startberechnungen.obj
+         Debug\stdafx.obj
+         HP_KrDef.vcxproj -> D:\Dropbox\Bregor\Masterarbeit\3.5 - C++\HP_KrDef\Debug\HP_KrDef.exe
+     1>Die Erstellung des Projekts "D:\Dropbox\Bregor\Masterarbeit\3.5 - C++\HP_KrDef\HP_KrDef\HP_KrDef.vcxproj" ist abgeschlossen, Build Ziel(e).
+
+Build erfolgreich.
+
+Verstrichene Zeit 00:00:01.02
